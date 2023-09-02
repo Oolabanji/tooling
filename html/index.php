@@ -73,7 +73,7 @@
     </div>
    
 
-    <h1> PROPITIX TOOLING WEBSITE </h1>
+    <h1> OLABANJI AGBOOLA WEBPAGE </h1>
     <h2 id="test">Propitix.io</h2>
 
 
